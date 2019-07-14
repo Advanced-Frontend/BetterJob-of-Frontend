@@ -1,2 +1,3 @@
-# Job-Opportunity
-内推求职区
+# BetterJob-of-Frontend
+
+「BJF」大厂内推·前端专场
