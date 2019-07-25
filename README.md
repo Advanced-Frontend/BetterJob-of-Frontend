@@ -17,7 +17,7 @@
 
 如果你有 HC 岗位，赶紧填写你的招聘信息躺着拿内推奖金
 
-[点击这里，新建一条招聘信息]([https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues/new?assignees=&labels=&template=add-job-information.md&title=%E5%85%AC%E5%8F%B8%E5%90%8D+-+%E5%9C%B0%E7%82%B9+-+%E5%B2%97%E4%BD%8D%E7%BA%A7%E5%88%AB+-+%E8%96%AA%E8%B5%84%E8%8C%83%E5%9B%B4](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues/new?assignees=&labels=&template=add-job-information.md&title=公司名+-+地点+-+岗位级别+-+薪资范围))
+[点击这里，新建一条招聘信息](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues/new?assignees=&labels=&template=add-job-information.md&title=公司名+-+地点+-+岗位级别+-+薪资范围)
 
 <br/>
 
@@ -37,8 +37,7 @@
 
 * 根据职级划分，点击投递
 
-
-[中级](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A中级)    [高级](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A高级)    [资深](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A资深)    [专家](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A专家)
+  [中级](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A中级)    [高级](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A高级)    [资深](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A资深)    [专家](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A专家)
 
 <br/>
 
