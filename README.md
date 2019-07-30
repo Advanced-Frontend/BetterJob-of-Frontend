@@ -8,7 +8,7 @@
 
 
 
-[线上版本阅读更流畅，点击阅读](https://muyiy.vip/job/)
+[线上版本阅读更流畅，点击阅读](https://muyiy.vip/)
 
 <br/>
 
