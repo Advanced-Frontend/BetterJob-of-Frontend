@@ -30,6 +30,8 @@
   [北京](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A北京)    [上海](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A上海)    [广州](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A广州)    [深圳](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A深圳)    
 
   [杭州](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A杭州)    [南京](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A南京)    [成都](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A成都)    [厦门](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A厦门)
+  
+  [佛山](https://github.com/Advanced-Frontend/BetterJob-of-Frontend/issues?q=is%3Aissue+is%3Aopen+label%3A佛山)
 
 <br/>
 
